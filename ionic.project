@@ -1,0 +1,8 @@
+{
+  "name": "isc2016",
+  "app_id": "ebb07494",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ]
+}
